@@ -1,3 +1,3 @@
 # Recipe Corner
 
-rch Recipes from over 1 Million recipes 
+Search Recipes from over 1 Million recipes 
